@@ -66,7 +66,7 @@ Cada arquivo representa um avanço no domínio da linguagem e dos conceitos fund
 30. `ZTT0SIMOEV_R_ARQUIVOS`  
 31. `ZTT0SIMOEV_R_ARQUIVOS_V2`
 
-Essa sequência reflete a jornada de aprendizado, indo dos **conceitos básicos e estruturas i
+Essa sequência reflete a jornada de aprendizado, indo dos **conceitos básicos e estruturas iniciais** até **operações com tabelas, modularização e manipulação de dados em cenários empresariais**
 
 ## 👨‍💻 Autor
 

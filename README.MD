@@ -7,7 +7,7 @@ Os arquivos aqui armazenados estão no formato `.abap` e foram criados em um **a
 
 ## 📂 Estrutura do Repositório
 
-Cada arquivo representa um exercício, desafio ou exemplo de prática realizada durante a academia ABAP.  
+Cada arquivo/pasta representa um exercício, desafio ou exemplo de prática realizada durante a academia ABAP.  
 Os objetos podem ser facilmente reconhecidos pelo prefixo: ZTT0
 
 
@@ -66,7 +66,15 @@ Cada arquivo representa um avanço no domínio da linguagem e dos conceitos fund
 30. `ZTT0SIMOEV_R_ARQUIVOS`  
 31. `ZTT0SIMOEV_R_ARQUIVOS_V2`
 
-Essa sequência reflete a jornada de aprendizado, indo dos **conceitos básicos e estruturas iniciais** até **operações com tabelas, modularização e manipulação de dados em cenários empresariais**
+
+Module Pool:
+
+
+32. `ZTT0SIMOEV_R_ARQUIVOS_NEW`
+33. `ZTT0SIMOEV_R_ORQUESTRADOR_NEW`
+34. `ZTT0SIMOEV_R_ORQUESTRADOR_V2_NEW`
+
+Essa sequência reflete a jornada de aprendizado, indo dos **conceitos básicos e estruturas iniciais** até **operações com tabelas, modularização e manipulação de dados em cenários empresariais**. 
 
 ## 👨‍💻 Autor
 
@@ -74,4 +82,4 @@ Essa sequência reflete a jornada de aprendizado, indo dos **conceitos básicos 
 Trainee em Desenvolvimento ABAP  
 📅 Repositório criado durante a formação em SAP ABAP.  
 
-
+<small> ps: há dicas secretas</small>

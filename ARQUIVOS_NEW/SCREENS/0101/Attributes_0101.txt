@@ -1,0 +1,3 @@
+Dynpro Type: Modal dialog box
+Rows/Columns    Occupied 5    107
+                Editing  11   119

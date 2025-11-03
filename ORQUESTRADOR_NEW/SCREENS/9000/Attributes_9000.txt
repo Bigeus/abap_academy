@@ -1,0 +1,5 @@
+"Apenas um container CONT_9000 cobrindo toda a tela. Dynpro Type: Normal"
+
+Dynpro Type: Normal
+Rows/Columns    Occupied 55    255
+                Editing  55    255

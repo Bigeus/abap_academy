@@ -1,0 +1,14 @@
+PROCESS BEFORE OUTPUT.
+
+ MODULE status_9000.
+
+ MODULE set_container_9000.
+
+ CALL SUBSCREEN sub_screen INCLUDING 'ZTT0SIMOEV_M_ORQUESTRADOR_V2'
+ vg_screen.
+
+PROCESS AFTER INPUT.
+
+ CALL SUBSCREEN sub_screen.
+
+ MODULE user_command_9000.

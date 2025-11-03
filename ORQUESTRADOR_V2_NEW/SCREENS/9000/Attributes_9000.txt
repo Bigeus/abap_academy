@@ -1,0 +1,3 @@
+Dynpro Type: Normal
+Rows/Columns    Occupied 55    255
+                Editing  55    255

@@ -1,0 +1,6 @@
+Dynpro Type: Selection Dynpro
+Rows/Columns    Occupied 4     81
+                Editing  200   120
+
+"Tela criada pela INCLUDE S01; criada automaticamente pelo SAP"
+

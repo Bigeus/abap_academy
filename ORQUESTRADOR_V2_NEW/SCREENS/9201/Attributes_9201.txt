@@ -1,0 +1,3 @@
+Dynpro Type: Subscreen
+Rows/Columns    Occupied 27    121
+                Editing  27    121

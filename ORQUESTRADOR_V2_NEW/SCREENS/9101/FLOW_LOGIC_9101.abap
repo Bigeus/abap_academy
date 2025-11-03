@@ -1,0 +1,13 @@
+PROCESS BEFORE OUTPUT.
+* MODULE STATUS_9101.
+
+  MODULE valida_campos_9101.
+
+*  MODULE set_default_tabstrip.
+
+  CALL SUBSCREEN scr_md INCLUDING sy-repid '9201'.
+  CALL SUBSCREEN scr_app INCLUDING sy-repid '9202'.
+
+PROCESS AFTER INPUT.
+
+ MODULE USER_COMMAND_9101.
